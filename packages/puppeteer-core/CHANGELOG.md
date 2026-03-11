@@ -1,5 +1,12 @@
 # Changelog
 
+## [24.39.1](https://github.com/puppeteer/puppeteer/compare/puppeteer-core-v24.39.0...puppeteer-core-v24.39.1) (2026-03-11)
+
+
+### 🛠️ Fixes
+
+* roll to Chrome 146.0.7680.72 ([#14764](https://github.com/puppeteer/puppeteer/issues/14764)) ([177e3ed](https://github.com/puppeteer/puppeteer/commit/177e3ed44a0066c0252d7429fadd8fb82a81281f))
+
 ## [24.39.0](https://github.com/puppeteer/puppeteer/compare/puppeteer-core-v24.38.0...puppeteer-core-v24.39.0) (2026-03-10)
 
 
